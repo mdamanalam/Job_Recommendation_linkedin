@@ -27,11 +27,13 @@ We can see top 10 companies for in Pune region.
 
 Next Deployment shown below is for **Statewise Recommendation**. Here, The state we 
 considered is ‘ Karnataka’. Deployment showing top 10 companies for Karnataka.
-![image](https://github.com/mdamanalam/Job_Recommendation_linkedin/assets/98773885/f1f3ddfd-7e91-4fdb-aac4-df576470023c)
+![image](https://github.com/mdamanalam/Job_Recommendation_linkedin/assets/98773885/d312d674-752b-41ad-907d-068092b5f33c)
+
 
 Deployment shown below is for **Job Recommendation**. Here, The Job_Name we 
 considered is ‘ Senior Data Engineer’. Deployment showing top 10 companies for **Senior Data Engineer**.
-![image](https://github.com/mdamanalam/Job_Recommendation_linkedin/assets/98773885/0f4dee6f-8442-4daf-a30e-db46ea9079d2)
+![image](https://github.com/mdamanalam/Job_Recommendation_linkedin/assets/98773885/5d0e2006-3297-4ee4-bebf-92ebe690e366)
+
 
 
 
