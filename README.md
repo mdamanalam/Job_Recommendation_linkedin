@@ -12,7 +12,7 @@ Some common types of jobs are based on the Job names and Locations where most of
 Job Recommendation system include content based filtering, which recommends abortive filtering and suggest jobs based on user preferences, 
 here we took Location based Recommendation. 
 
-#### **Steps Performed**
+#### **STEPS PERFORMED**
 ##### **scrapped the LinkedIn Job Data**
 ###### **EDA**
 ###### **VISUALIZATION**
