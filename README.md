@@ -1,6 +1,6 @@
-# Job_Recommendation_linkedin
+# linkedin_Job_Recommendation
 ## **Goal Of Project:-**
-This is a Recommendation project, Where we have scrapped the LinkedIn page to get data about the various features.
+This is a Recommendation project, Where we have **scrapped the LinkedIn page** to get data about the various features.
 The data file contains 9 variables. The goal here is to recommend various job type according to region or state and vice versa.
 
 ### **PROJECT DESCRIPTION:**
@@ -11,6 +11,29 @@ Total applicants, Industry, to provide a more comprehensive understanding of a J
 Some common types of jobs are based on the Job names and Locations where most of the people would prefer, 
 Job Recommendation system include content based filtering, which recommends abortive filtering and suggest jobs based on user preferences, 
 here we took Location based Recommendation. 
+
+#### **Steps Performed**
+**scrapped the LinkedIn Job Data**
+**EDA**
+**VISUALIZATION**
+**MODEL BUILDING**
+Model building in Machine Learning models can be understood as program that has been trained to find patterns within new data and make precisions and obtain the result.
+In this project we did model building on the basis of Recommendation. We did recommendation with the help of **Selenium library** also used cosine, correlation similarity and pairwise distances to know distance between two points.
+Here we focused on finding cosine-similarity between job.
+**DEPLOYMENT**
+The deployment shown below is for **Regionwise Recommendation**. The region we considered here is ‘Pune’. 
+We can see top 10 companies for in Pune region.
+![image](https://github.com/mdamanalam/Job_Recommendation_linkedin/assets/98773885/67e864bb-314a-4467-b156-01b2c7257c8e)
+
+
+
+
+
+
+
+
+
+
 
 
 
