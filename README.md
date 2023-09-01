@@ -13,10 +13,10 @@ Job Recommendation system include content based filtering, which recommends abor
 here we took Location based Recommendation. 
 
 #### **Steps Performed**
-**scrapped the LinkedIn Job Data**
-**EDA**
-**VISUALIZATION**
-**MODEL BUILDING**
+##### **scrapped the LinkedIn Job Data**
+###### **EDA**
+###### **VISUALIZATION**
+###### **MODEL BUILDING**
 Model building in Machine Learning models can be understood as program that has been trained to find patterns within new data and make precisions and obtain the result.
 In this project we did model building on the basis of Recommendation. We did recommendation with the help of **Selenium library** also used cosine, correlation similarity and pairwise distances to know distance between two points.
 Here we focused on finding cosine-similarity between job.
